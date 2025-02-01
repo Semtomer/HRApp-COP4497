@@ -1,0 +1,1 @@
+window._env_={ENV_TEST:"ENV_TEST_SAMPLE"};
