@@ -2,6 +2,15 @@ This repository is for introduction of the 'Simple HR' app I made in the COP4497
 
 NOTE: The source codes provided by KUIKA are divided into WebUI and Backend. I did not test these source codes myself on a separate server. What you see in the video is the version I ran on the KUIKA platform.
 
+Project Video   
+https://youtu.be/sz5rT3ob-9M
+
+WebUI Source Code   
+https://drive.google.com/file/d/1Kc5Pz7TYtC3DLdZQpTc5d1THspU-ezdB/view?usp=sharing
+
+Backend Source Code   
+https://drive.google.com/file/d/1YR3BnKRyY9KlFc9bKJFHEGgNjM_WZyBi/view?usp=sharing
+
 PROJECT DETAILS
 
 This project aims to develop a web and mobile application designed to facilitate the management of human resources processes within companies. The project covers recruitment, performance evaluation, and training processes on a single platform, supported by a user-friendly interface and robust data analytics capabilities. The goal is to ensure active participation of employees and managers in processes, enable data-driven decision-making, and improve overall HR efficiency.
